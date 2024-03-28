@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/jayasingh1">
                     <img src="https://avatars.githubusercontent.com/u/47962762?v=4" width="100px;" alt="Jaya Singh"/>
                     <br />
-                    <sub><b>Jaya Singh</b></sub>
+                    <sub><b>Jaya Singh 1</b></sub>
                 </a> 
             </td>
             <td align="center">
